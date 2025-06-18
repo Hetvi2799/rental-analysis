@@ -82,6 +82,4 @@ uvicorn fastApi:main --reload
   <img src="https://contributors-img.web.app/image?repo=abhishekpatelmc/rental-analysis" />
 </a>
 
-## Support
 
-Reach out to me at [@abhishekpatelmc](https://www.linkedin.com/in/abhishekpatelmc/)
